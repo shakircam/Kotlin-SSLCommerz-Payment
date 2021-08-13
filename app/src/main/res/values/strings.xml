@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SslcommerzPayment</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="submit">Submit</string>
+</resources>
